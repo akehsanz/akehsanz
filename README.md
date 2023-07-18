@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akehsanz, CEO/CMO: AdCopy Marketer, WebAsia Agency
+- 👋 Hi, I’m @akehsanz, CEO/CMO: AdCopy Marketer, WebDigitalAsia Agency
 - 👀 I’m interested in ... several Javscript, Wordpress, Python
 - 🌱 I’m currently learning Javascript Library: Solid JS, three.js, NextJS, NuxtJS
 - 💞️ I’m looking to collaborate on Javascript projects
