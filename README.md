@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akehsanz, CEO/CMO: AdCopy Marketer, WebDigitalAsia Agency
-- 👀 I’m interested in ... several Javscript, Wordpress, Python
-- 🌱 I’m currently learning Javascript Library: Solid JS, three.js, NextJS, NuxtJS
-- 💞️ I’m looking to collaborate on Javascript projects
+- 👋 Hi, I’m @akehsanz, CEO/CMO: AdCopyMarketer, WPSkillsHub Agency
+- 👀 I’m interested in ... several Javscript, JSX, Typescript, Wordpress, Python
+- 🌱 I’m currently learning Javascript Library: SolidJS, three.js, NextJS, NuxtJS
+- 💞️ I’m looking to collaborate on Javascript, WordPress projects
 - 📫 How to reach me ... contact directly: ehsan.webexpert at gmail
 
 <!---
