@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @akehsanz, CEO/CMO: AdCopyMarketer, WPSkillsHub Agency
+- 👋 Hi, I’m @akehsanz, Founder CEO/CMO: WPSkillsHub Agency, WebThemeshop Marketplace,
+- 👋 Initiator of: BDFreelancerhub to UpSkill/ReSkill Freelancers on Freelance/Part-time jobs
 - 👀 I’m interested in ... several Javscript, JSX, Typescript, Wordpress, Python
 - 🌱 I’m currently learning Javascript Library: SolidJS, three.js, NextJS, NuxtJS
 - 💞️ I’m looking to collaborate on Javascript, WordPress projects
